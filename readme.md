@@ -71,7 +71,7 @@ insert into explorers(id, username) values (5, 'Explorer5');
 21. Salimos
 ![image](https://github.com/JorgeLMarquez/PostgresTuto/blob/main/PostgresTuto/17.png)
 
-Objetivos de esta práctica:
+# Objetivos de esta práctica:
 - Instalar Postgresql
 - Usar la línea de comando de Postgresql
 - Crear un db desde la terminal
@@ -79,7 +79,6 @@ Objetivos de esta práctica:
 - Aprender a realizar las operaciones básicas: crear, actualizar, leer y eliminar.
 
 El uso de SQL en el día a día es vital, por lo que cualquier curso completo que puedas tomar solo te dará mejores habilidades para complementar tu formación como developer. Te recomiendo mucho buscar cursos y tutoriales sobre este tema, puedes invertir en el siguiente gran libro: https://www.practicalsql.com/index.html
-
 
 # Editor de SQL
 

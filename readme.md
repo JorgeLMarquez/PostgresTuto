@@ -5,9 +5,7 @@ Hola, esta es una pequeña guía de como usar Postgresql.
 # Instalación de Postgresql
 
 1. Descarga e instala el motor de base de datos relacional PostgreSQL en tu Sistema Operativo: [download](https://www.postgresql.org/download/)
-2. Ten en cuenta que esto puede variar según tu SO. (En este caso uso ubuntu)
-
-Comando para la instalación: `sudo apt install postgresql`
+2. Ten en cuenta que esto puede variar según tu SO. (En este caso uso ubuntu, comando para la instalación: `sudo apt install postgresql`)
 ![image](https://github.com/JorgeLMarquez/PostgresTuto/blob/main/PostgresTuto/1.png)
 
 4. Entra a la línea de comando de tu postgresql (Busca poder usar el comando `psql` en tu terminal).
